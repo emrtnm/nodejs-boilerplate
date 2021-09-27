@@ -17,7 +17,7 @@ npm install
 .env.example to .env
 
 # Then simply start your app
-node run dev
+npm run dev
 ```
 
 List of Packages
